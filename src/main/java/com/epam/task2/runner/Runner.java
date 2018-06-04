@@ -15,7 +15,7 @@ public class Runner {
                 "1.                              The if-then and if-then-else Statements\n" +
                 "1.1.\tThe if-then Statement\n" +
                 "The if-then statement is the most basic of all the control flow statements. It tells your program to execute a certain section of code only if a particular test evaluates to true. " +
-                "For example, the Bicycle class could allow the brakes to decrease the bicycle's speed only if the bicycle is already in motion. One possible implementation of the applyBrakes method could be as follows:\n" +
+                "For example, the the Bicycle class could allow the brakes to decrease the bicycle's speed only if the bicycle is already in motion. One possible implementation of the applyBrakes method could be as follows:\n" +
                 "\n" +
                 "void applyBrakes() {\n" +
                 "    // the \"if\" clause: bicycle must be moving\n" +
